@@ -1,0 +1,12 @@
+aaa,bbb ccc,-,fff,A B C D E
+bbb,ccc fff,-,aaa,B C E D A
+ccc,aaa ddd,kkk,-,B E A D C
+ddd,aaa bbb,ccc,-,A C E B D
+eee,kkk bbb,-,ccc,D A C B E
+fff,bbb lll,ddd,-,C B A E D
+ggg,fff ddd,-,ggg,A D B C E
+hhh,ccc fff,jjj,-,B D E C A
+iii,jjj hhh,lll,-,B A D E C
+jjj,aaa lll,ccc,-,D A C B E
+kkk,ddd bbb,-,ccc,A E C B D
+lll,kkk ggg,iii,-,C D B A E
